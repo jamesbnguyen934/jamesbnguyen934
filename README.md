@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a6e,70:1a1b4b,100:0d1117&height=240&section=header&text=James%20B.%20Nguyen&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Staff%20Frontend%20Engineer%20%7C%20AI%20%26%20Infrastructure%20Architect&descAlignY=60&descFontSize=20&descFontColor=c9d1d9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a2a6e,100:1a1b4b&amp;height=240&amp;section=header&amp;text=James%20B.%20Nguyen&amp;fontSize=68&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Staff%20Frontend%20Engineer%20%7C%20AI%20and%20Infrastructure%20Architect&amp;descAlignY=60&amp;descFontSize=20&amp;descFontColor=c9d1d9" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Staff+Frontend+Engineer+%7C+10%2B+Years+Experience;🤖+GenAI+%7C+LLM+Orchestration+%7C+RAG+Architect;⚡+Sub-200ms+Latency+at+3B%2B+Global+Users;🏛️+Meta+%7C+Google+%7C+Blue+Ocean+Technology;🌐+Scaling+Interfaces+That+Actually+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=750&amp;lines=%F0%9F%9A%80+Staff+Frontend+Engineer+%7C+10%2B+Years+Experience;%F0%9F%A4%96+GenAI+%7C+LLM+Orchestration+%7C+RAG+Architect;%E2%9A%A1+Sub-200ms+Latency+at+3B%2B+Global+Users;%F0%9F%8F%9B%EF%B8%8F+Meta+%7C+Google+%7C+Blue+Ocean+Technology;%F0%9F%8C%90+Scaling+Interfaces+That+Actually+Matter" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -515,5 +515,5 @@ Adaptive clinical assessment, goal-setting, and long-term health coaching platfo
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a6e,70:1a1b4b,100:0d1117&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2a6e,1a1b4b&height=140&section=footer" width="100%"/>
 </div>
