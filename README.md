@@ -23,7 +23,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/📍_Marietta,_GA-0d1117?style=for-the-badge&logoColor=34A853" alt="Location"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=jamesbnguyen934&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bytenomad092&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br/>
