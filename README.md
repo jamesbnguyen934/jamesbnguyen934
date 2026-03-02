@@ -345,14 +345,6 @@ Adaptive clinical assessment, goal-setting, and long-term health coaching platfo
 
 ---
 
-## 📉 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesbnguyen934&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
