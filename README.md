@@ -17,13 +17,13 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/jamesbnguyen">
+  <a href="https://github.com/jamesbnguyen934">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/📍_Marietta,_GA-0d1117?style=for-the-badge&logoColor=34A853" alt="Location"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=jamesbnguyen&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jamesbnguyen934&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -432,15 +432,15 @@ Adaptive clinical assessment, goal-setting, and long-term health coaching platfo
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamesbnguyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="185" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jamesbnguyen934&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="185" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=jamesbnguyen&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="185" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=jamesbnguyen934&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="185" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbnguyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbnguyen934&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages"/>
 </div>
 
 ---
@@ -448,7 +448,7 @@ Adaptive clinical assessment, goal-setting, and long-term health coaching platfo
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamesbnguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jamesbnguyen934&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -456,7 +456,7 @@ Adaptive clinical assessment, goal-setting, and long-term health coaching platfo
 ## 📉 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesbnguyen&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesbnguyen934&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -501,7 +501,7 @@ Adaptive clinical assessment, goal-setting, and long-term health coaching platfo
   <img src="https://img.shields.io/badge/Gmail-Drop_Me_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/jamesbnguyen">
+<a href="https://github.com/jamesbnguyen934">
   <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
